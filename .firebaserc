@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dic-buldhana": {
+      "hosting": {
+        "dic": [
+          "dic-buldhana"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dic-buldhana"
+  }
+}
